@@ -1,0 +1,44 @@
+Nicotine Experiment Nicotine Delivery Time Stamps 
+Nicotine_wLikertFaces_cravePlot_40min_adlibitum_norest_flip
+32	Session-003
+Nicotine_wLikertFaces_cravePlot_40min_adlibitum_norest_flip
+11-Aug-2016 09:57:40
+Starting experiment at: 09:57:52
+Air supply ON: 10:02:52  at 300.2063s
+Countdown done: 10:03:08 at 316.4607s
+Puff on : 10:03:08 at 316.6525s
+Air Supply OFF: 10:03:18 at 326.6719s
+Air supply ON: 10:06:53  at 541.0776s
+Countdown done: 10:07:09 at 557.3238s
+Puff on : 10:07:09 at 557.4597s
+Air Supply OFF: 10:07:19 at 567.4791s
+Air supply ON: 10:12:11  at 859.3885s
+Countdown done: 10:12:27 at 875.6306s
+Puff on : 10:12:27 at 875.7726s
+Air Supply OFF: 10:12:37 at 885.7881s
+Air supply ON: 10:16:51  at 1139.5926s
+Countdown done: 10:17:07 at 1155.8404s
+Puff on : 10:17:08 at 1155.9788s
+Air Supply OFF: 10:17:18 at 1165.9922s
+Air supply ON: 10:21:28  at 1416.4217s
+Countdown done: 10:21:44 at 1432.6672s
+Puff on : 10:21:44 at 1432.8058s
+Air Supply OFF: 10:21:54 at 1442.8202s
+Air supply ON: 10:26:45  at 1733.3565s
+Countdown done: 10:27:01 at 1749.6075s
+Puff on : 10:27:01 at 1749.7597s
+Air Supply OFF: 10:27:11 at 1759.8011s
+Air supply ON: 10:31:37  at 2025.2613s
+Countdown done: 10:31:53 at 2041.4996s
+Puff on : 10:31:53 at 2041.6444s
+Air Supply OFF: 10:32:03 at 2051.6628s
+Air supply ON: 10:36:22  at 2310.1596s
+Countdown done: 10:36:38 at 2326.4093s
+Puff on : 10:36:38 at 2326.5438s
+Air Supply OFF: 10:36:48 at 2336.5612s
+Air supply ON: 10:42:50  at 2698.8008s
+Countdown done: 10:43:07 at 2715.0434s
+Puff on : 10:43:07 at 2715.184s
+Air Supply OFF: 10:43:17 at 2725.2014s
+Nicotine puffs over : 10:43:17 at 2725.21s
+Experiment done: 10:53:07 at 3315.2145s 

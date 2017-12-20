@@ -1,0 +1,36 @@
+Nicotine Experiment 
+21	Session-003
+19-Jul-2016 13:27:44
+Starting experiment at: 13:28:27
+Air supply ON at 0.18058s
+Countdown done: 13:33:44 at 16.5038s
+Puff on : 13:33:44 at 16.7051s
+Air Supply OFF: 13:34:04 at 36.7523s
+Air supply ON at 165.2173s
+Countdown done: 13:36:29 at 181.4892s
+Puff on : 13:36:29 at 181.6392s
+Air Supply OFF: 13:36:49 at 201.6928s
+Air supply ON at 481.9393s
+Countdown done: 13:41:46 at 498.213s
+Puff on : 13:41:46 at 498.3631s
+Air Supply OFF: 13:42:06 at 518.4287s
+Air supply ON at 764.0434s
+Countdown done: 13:46:28 at 780.3063s
+Puff on : 13:46:28 at 780.4462s
+Air Supply OFF: 13:46:48 at 800.5209s
+Air supply ON at 1250.7513s
+Countdown done: 13:54:34 at 1267.0161s
+Puff on : 13:54:34 at 1267.1562s
+Air Supply OFF: 13:54:55 at 1287.2059s
+Air supply ON at 1830.0755s
+Countdown done: 14:04:14 at 1846.335s
+Puff on : 14:04:14 at 1846.4783s
+Air Supply OFF: 14:04:34 at 1866.548s
+Puff denied : 14:05:28 at 1920.8302s
+Puff denied : 14:05:28 at 1920.9689s
+Puff denied : 14:05:28 at 1921.097s
+Puff denied : 14:05:29 at 1921.2315s
+Puff denied : 14:05:29 at 1921.789s
+Puff denied : 14:05:29 at 1921.9148s
+Nicotine visual over : 14:13:27 at 2400.0222s
+Starting resting : 14:18:37 at 2710.047s

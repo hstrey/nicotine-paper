@@ -1,0 +1,34 @@
+Nicotine Experiment 
+SUBJECT-13	Session-001
+01-Feb-2016 10:08:55
+Starting experiment at: 10:10:20
+Puff off: 10:12:01 at 100.6497s
+Puff on : 10:12:11 at 110.5948s
+Puff off: 10:12:21 at 120.6253s
+Puff off: 10:14:01 at 220.6216s
+Puff on : 10:14:11 at 230.6547s
+Puff off: 10:14:21 at 240.616s
+Puff off: 10:16:01 at 340.6605s
+Puff on : 10:16:11 at 350.6596s
+Puff off: 10:16:21 at 360.6585s
+Puff off: 10:18:01 at 460.6192s
+Puff on : 10:18:11 at 470.7012s
+Puff off: 10:18:21 at 480.6825s
+Puff off: 10:20:01 at 580.6217s
+Puff on : 10:20:11 at 590.6471s
+Puff off: 10:20:21 at 600.6448s
+Puff off: 10:22:01 at 700.694s
+Puff on : 10:22:11 at 710.7368s
+Puff off: 10:22:21 at 720.6551s
+Puff off: 10:24:01 at 820.533s
+Puff on : 10:24:11 at 830.5826s
+Puff off: 10:24:21 at 840.6004s
+Puff off: 10:26:01 at 940.672s
+Puff on : 10:26:11 at 950.6398s
+Puff off: 10:26:21 at 960.6533s
+Puff off: 10:28:01 at 1060.5611s
+Puff on : 10:28:11 at 1070.5701s
+Puff off: 10:28:21 at 1080.604s
+Puff off: 10:30:01 at 1180.6833s
+Puff on : 10:30:11 at 1190.6429s
+Puff off: 10:30:21 at 1200.5753s

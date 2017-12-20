@@ -1,0 +1,100 @@
+Nicotine Experiment Nicotine Delivery Time Stamps 
+Nicotine_wLikertFaces_cravePlot_40min_adlibitum_norest_flip
+33	Session-003
+Nicotine_wLikertFaces_cravePlot_40min_adlibitum_norest_flip
+16-Aug-2016 11:24:32
+Starting experiment at: 11:25:01
+Puff requested before experiment : 11:28:34 at 212.1665s
+Puff requested before experiment : 11:28:36 at 214.3495s
+Puff requested before experiment : 11:28:36 at 214.468s
+Puff requested before experiment : 11:28:40 at 218.9324s
+Puff requested before experiment : 11:28:41 at 219.0513s
+Puff requested before experiment : 11:28:52 at 230.3815s
+Puff requested before experiment : 11:28:52 at 230.4998s
+Puff requested before experiment : 11:28:52 at 230.6149s
+Puff requested before experiment : 11:29:18 at 256.5294s
+Puff requested before experiment : 11:29:18 at 256.6461s
+Puff requested before experiment : 11:29:18 at 256.7627s
+Puff requested before experiment : 11:29:18 at 256.8814s
+Puff requested before experiment : 11:29:18 at 256.996s
+Puff requested before experiment : 11:29:19 at 257.1293s
+Puff requested before experiment : 11:29:19 at 257.246s
+Puff requested before experiment : 11:29:19 at 257.3627s
+Puff requested before experiment : 11:29:19 at 257.481s
+Puff requested before experiment : 11:29:29 at 267.5135s
+Puff requested before experiment : 11:29:30 at 268.8966s
+Puff requested before experiment : 11:29:30 at 269.0116s
+Puff requested before experiment : 11:29:31 at 269.1283s
+Puff requested before experiment : 11:29:31 at 269.245s
+Puff requested before experiment : 11:29:31 at 269.3616s
+Puff requested before experiment : 11:29:31 at 269.4805s
+Puff requested before experiment : 11:29:31 at 269.595s
+Puff requested before experiment : 11:29:31 at 269.7131s
+Puff requested before experiment : 11:29:31 at 269.8283s
+Puff requested before experiment : 11:29:31 at 269.9449s
+Puff requested before experiment : 11:29:32 at 270.0658s
+Puff requested before experiment : 11:29:32 at 270.1949s
+Puff requested before experiment : 11:29:32 at 270.3136s
+Puff requested before experiment : 11:29:32 at 270.4283s
+Puff requested before experiment : 11:29:32 at 270.5449s
+Puff requested before experiment : 11:29:32 at 270.6632s
+Puff requested before experiment : 11:29:32 at 270.7785s
+Puff requested before experiment : 11:29:32 at 270.8971s
+Puff requested before experiment : 11:29:32 at 271.0115s
+Puff requested before experiment : 11:29:33 at 271.1449s
+Puff requested before experiment : 11:29:33 at 271.2636s
+Puff requested before experiment : 11:29:33 at 271.3782s
+Puff requested before experiment : 11:29:33 at 271.4971s
+Puff requested before experiment : 11:29:33 at 271.6115s
+Puff requested before experiment : 11:29:33 at 271.7281s
+Puff requested before experiment : 11:29:33 at 271.8448s
+Puff requested before experiment : 11:29:33 at 271.9614s
+Puff requested before experiment : 11:29:34 at 272.0813s
+Puff requested before experiment : 11:29:34 at 272.1947s
+Puff requested before experiment : 11:29:34 at 272.3129s
+Puff requested before experiment : 11:29:34 at 272.428s
+Puff requested before experiment : 11:29:34 at 272.5446s
+Puff requested before experiment : 11:29:34 at 272.6636s
+Puff requested before experiment : 11:29:34 at 272.7781s
+Puff requested before experiment : 11:29:34 at 272.8965s
+Puff requested before experiment : 11:29:34 at 273.0113s
+Puff requested before experiment : 11:29:35 at 273.128s
+Air supply ON: 11:30:02  at 300.2344s
+Countdown done: 11:30:18 at 316.4899s
+Puff on : 11:30:18 at 316.6776s
+Air Supply OFF: 11:30:28 at 326.7012s
+Air supply ON: 11:32:02  at 420.0871s
+Countdown done: 11:32:18 at 436.3298s
+Puff on : 11:32:18 at 436.4681s
+Air Supply OFF: 11:32:28 at 446.4886s
+Air supply ON: 11:35:26  at 624.2976s
+Countdown done: 11:35:42 at 640.546s
+Puff on : 11:35:42 at 640.6837s
+Air Supply OFF: 11:35:52 at 650.7272s
+Air supply ON: 11:41:23  at 981.8144s
+Countdown done: 11:41:40 at 998.0661s
+Puff on : 11:41:40 at 998.1975s
+Air Supply OFF: 11:41:50 at 1008.214s
+Air supply ON: 11:47:21  at 1339.9082s
+Countdown done: 11:47:38 at 1356.1527s
+Puff on : 11:47:38 at 1356.2933s
+Air Supply OFF: 11:47:48 at 1366.3078s
+Air supply ON: 11:53:37  at 1715.3269s
+Countdown done: 11:53:53 at 1731.5714s
+Puff on : 11:53:53 at 1731.7101s
+Air Supply OFF: 11:54:03 at 1741.7286s
+Air supply ON: 11:58:16  at 1994.4449s
+Countdown done: 11:58:32 at 2010.6979s
+Puff on : 11:58:32 at 2010.8261s
+Air Supply OFF: 11:58:42 at 2020.8467s
+Air supply ON: 12:02:19  at 2237.4504s
+Countdown done: 12:02:35 at 2253.6943s
+Puff on : 12:02:35 at 2253.8325s
+Air Supply OFF: 12:02:45 at 2263.8779s
+Nicotine puffs over : 12:10:02 at 2700.0411s
+Puff requested post experiment : 12:10:39 at 2737.6565s
+Puff requested post experiment : 12:10:39 at 2737.7716s
+Puff requested post experiment : 12:16:54 at 3112.2904s
+Puff requested post experiment : 12:16:54 at 3112.4069s
+Puff requested post experiment : 12:16:54 at 3112.5238s
+Experiment done: 12:23:02 at 3480.0309s 

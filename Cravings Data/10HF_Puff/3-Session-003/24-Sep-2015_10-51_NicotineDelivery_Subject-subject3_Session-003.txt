@@ -1,0 +1,7 @@
+Nicotine Experiment 
+Subject-subject3	Session-003
+24-Sep-2015 10:51:54
+Starting experiment at: 10:52:34
+Puff off: 10:54:14 at 100.3232s
+Puff on : 10:54:44 at 130.2748s
+Puff off: 10:55:04 at 150.2724s

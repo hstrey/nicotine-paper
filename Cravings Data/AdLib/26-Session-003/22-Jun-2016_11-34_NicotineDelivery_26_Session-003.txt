@@ -1,0 +1,18 @@
+Nicotine Experiment 
+26	Session-003
+22-Jun-2016 11:34:37
+Starting experiment at: 11:35:43
+Air supply ON at 0.12646s
+Countdown done: 11:40:59 at 16.4412s
+Puff on : 11:40:59 at 16.6329s
+Air Supply OFF: 11:41:09 at 26.6718s
+Air supply ON at 812.7046s
+Countdown done: 11:54:32 at 828.9663s
+Puff on : 11:54:32 at 829.1085s
+Air Supply OFF: 11:54:42 at 839.1857s
+Air supply ON at 1782.7883s
+Countdown done: 12:10:42 at 1799.1155s
+Puff on : 12:10:42 at 1799.2491s
+Air Supply OFF: 12:10:52 at 1809.2851s
+Nicotine visual over : 12:20:43 at 2400.068s
+Starting resting : 12:25:53 at 2710.0911s

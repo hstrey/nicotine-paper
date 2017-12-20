@@ -1,0 +1,64 @@
+Nicotine Experiment 
+Subject-28	Session-001
+18-Apr-2016 11:37:46
+Starting experiment at: 11:38:00
+Puff off: 11:39:41 at 100.4668s
+Puff on : 11:39:50 at 110.2224s
+Puff off: 11:40:00 at 120.241s
+Puff off: 11:41:41 at 220.4633s
+Puff on : 11:41:50 at 230.2562s
+Puff off: 11:42:00 at 240.302s
+Puff off: 11:43:41 at 340.4548s
+Puff on : 11:43:50 at 350.2705s
+Puff off: 11:44:00 at 360.3164s
+Puff off: 11:45:41 at 460.5655s
+Puff on : 11:45:50 at 470.2087s
+Puff off: 11:46:00 at 480.3463s
+Puff off: 11:47:41 at 580.5096s
+Puff on : 11:47:50 at 590.2991s
+Puff off: 11:48:00 at 600.2845s
+Puff off: 11:49:41 at 700.5038s
+Puff on : 11:49:50 at 710.3321s
+Puff off: 11:50:00 at 720.334s
+Puff off: 11:51:41 at 820.5476s
+Puff on : 11:51:50 at 830.1922s
+Puff off: 11:52:00 at 840.1912s
+Puff off: 11:53:41 at 940.4918s
+Puff on : 11:53:50 at 950.269s
+Puff off: 11:54:00 at 960.2983s
+Puff off: 11:55:41 at 1060.5357s
+Puff on : 11:55:50 at 1070.3137s
+Puff off: 11:56:00 at 1080.2678s
+Puff off: 11:57:41 at 1180.447s
+Puff on : 11:57:50 at 1190.2529s
+Puff off: 11:58:00 at 1200.2548s
+Puff off: 11:59:41 at 1300.4405s
+Puff on : 11:59:50 at 1310.2068s
+Puff off: 12:00:00 at 1320.2194s
+Puff off: 12:01:41 at 1420.5347s
+Puff on : 12:01:50 at 1430.3002s
+Puff off: 12:02:00 at 1440.3315s
+Puff off: 12:03:41 at 1540.462s
+Puff on : 12:03:50 at 1550.2697s
+Puff off: 12:04:00 at 1560.1886s
+Puff off: 12:05:41 at 1660.4562s
+Puff on : 12:05:50 at 1670.2665s
+Puff off: 12:06:00 at 1680.2372s
+Puff off: 12:07:41 at 1780.5377s
+Puff on : 12:07:50 at 1790.3131s
+Puff off: 12:08:00 at 1800.2819s
+Puff off: 12:09:41 at 1900.4443s
+Puff on : 12:09:50 at 1910.2055s
+Puff off: 12:10:00 at 1920.2523s
+Puff off: 12:11:41 at 2020.4386s
+Puff on : 12:11:50 at 2030.1867s
+Puff off: 12:12:00 at 2040.2052s
+Puff off: 12:13:41 at 2140.4321s
+Puff on : 12:13:50 at 2150.2353s
+Puff off: 12:14:00 at 2160.2352s
+Puff off: 12:15:41 at 2260.4438s
+Puff on : 12:15:50 at 2270.2809s
+Puff off: 12:16:00 at 2280.2516s
+Puff off: 12:17:41 at 2380.4205s
+Puff on : 12:17:50 at 2390.2025s
+Puff off: 12:18:00 at 2400.2035s
